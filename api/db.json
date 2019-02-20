@@ -1,0 +1,59 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "firstName": "Larry",
+            "lastName": "Wilber",
+            "departmentId": 2,
+            "computerId": 3
+        },
+        {
+            "id": 2,
+            "firstName": "Laurence",
+            "lastName": "Fishburne",
+            "departmentId": 1,
+            "computerId": 2
+        },
+        {
+            "id": 3,
+            "firstName": "Gary",
+            "lastName": "Snail",
+            "departmentId": 3,
+            "computerId": 1
+
+        }
+
+    ],
+    "computers": [
+        {
+            "id": 1,
+            "type": " 2014 Macbook Pro",
+            "serialNo": "E5412546513132165132156"
+        },
+        {
+            "id": 2,
+            "type": " 2017 Macbook Pro",
+            "serialNo": "F5412546513132165185214"
+        },
+        {
+            "id": 3,
+            "type": " 2019 Macbook Pro",
+            "serialNo": "G5412546513132165112369"
+        }
+
+    ],
+    "departments": [
+        {
+            "id": 1,
+            "name": "Actor"
+        },
+        {
+            "id": 2,
+            "name": "Director"
+        },
+        {
+            "id": 3,
+            "name": "Assistant"
+        }
+    ]
+}
